@@ -1,0 +1,9 @@
+# pyenv
+.python-version
+
+# Virtual environments
+ai_agent/
+.env
+
+# dotenv
+.env

@@ -1,0 +1,8 @@
+crewai==0.41.1
+crewai_tools==0.4.26
+langchain==0.2.10
+langchain_community==0.2.9
+langchain_google_genai==1.0.7
+langchain_openai==0.1.17
+python-dotenv==1.0.1
+streamlit==1.36.0
