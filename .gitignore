@@ -7,3 +7,4 @@ ai_agent/
 
 # dotenv
 .env
+__pycache__
